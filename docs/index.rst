@@ -4,7 +4,7 @@ Jenneau GPS Update: Improving Boaters' Navigation
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-.. image:: Login.jpg
+.. image:: corosgpsupdate.jpg
    :alt: My Project Logo
    :width: 350px
    :align: center
